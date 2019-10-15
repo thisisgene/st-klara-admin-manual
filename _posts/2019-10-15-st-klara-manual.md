@@ -2,8 +2,6 @@
 layout: post
 ---
 
-Betrifft: [admin.st-klara-nuernberg.de](https://admin.st-klara-nuernberg.de)
-
 Im Folgenden sind die wichtigsten Punkte des Admin-Bereichs zusammengefasst:
 
 ## Seiten
