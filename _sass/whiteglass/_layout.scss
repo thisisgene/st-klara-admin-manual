@@ -20,6 +20,9 @@
   &:visited {
     color: $grey-color-dark;
   }
+  img {
+    height: 40px;
+  }
 }
 
 .site-nav {
@@ -48,8 +51,6 @@
   }
 }
 
-
-
 /**
  * Site footer
  */
@@ -59,8 +60,6 @@
   color: $grey-color;
   text-align: center;
 }
-
-
 
 /**
  * Page content
@@ -138,8 +137,6 @@
   }
 }
 
-
-
 /**
  * Posts
  */
@@ -192,8 +189,6 @@
     }
   }
 }
-
-
 
 /**
  * Pagination
