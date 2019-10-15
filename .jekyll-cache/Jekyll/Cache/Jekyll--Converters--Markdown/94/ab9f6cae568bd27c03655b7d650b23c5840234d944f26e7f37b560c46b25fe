@@ -1,0 +1,82 @@
+I"U<p>Betrifft: <a href="https://admin.st-klara-nuernberg.de">admin.st-klara-nuernberg.de</a></p>
+
+<p>Im Folgenden sind die wichtigsten Punkte des Admin-Bereichs zusammengefasst:</p>
+
+<h2>Seiten</h2>
+
+<p>Unter “Seiten” kann man den <strong>Inhalt der Seiten</strong> der Menü-Navigation, von “Newsletter” und “Kontakt_mini” (sticky Kontakt-Feld rechts), sowie das <strong>Titelbild</strong> ändern.<br />
+Außerdem kann man unter <strong>Veranstaltungsprogramm</strong> das aktuelle Veranstaltungsprogramm-PDF hochladen.</p>
+
+<p><span style="color:darkred"><strong>Wichtig:</strong></span> die Titel/Namen der Seiten nicht zu verändern, da die Menüstruktur und sonstige Funktionalität davon abhängig ist.</p>
+
+<h2>Podcasts</h2>
+
+<p>Einen Podcast erstellen:</p>
+
+<ul>
+  <li>unter “Podcasts” auf “Erstellen” klicken.</li>
+  <li>Oben den Titel</li>
+  <li>darunter den Beschreibungstext eingeben</li>
+  <li>Unten unter “File” die Audiodatei hochladen.</li>
+  <li>Darunter die gewünschte Kategorie wählen.</li>
+  <li>Auf “Veröffentlichen” klicken (2x)</li>
+</ul>
+
+<p>Die Reihenfolge der Podcasts lässt sich per drag&amp;drop unter “Alle Podcasts” verändern.</p>
+
+<h2>Bildgalerien</h2>
+
+<p>Die Bildgalerien sind in Ordner unterteilt. Diese dienen allerdings nur der Übersicht im Adminbereich und sagen nichts über die tatsächlichen Namen und Zuweisungen der einzelnen Galerien aus.</p>
+
+<p>Die Herangehensweise wirkt aufs erste nicht ganz intuitiv, da Wordpress keine interne “Ordnerstruktur” oder dergleichen anbietet, ist aber im Endeffekt ganz simpel.</p>
+
+<p>Galerie erstellen:</p>
+
+<ul>
+  <li>unter “Bildgalerien” auf “Erstellen” klicken</li>
+  <li>Als oberstes den Titel der Galerie eingeben</li>
+  <li>darunter auf “+” und “Galerie” aus “Meistbenutzt” (bzw. “Allgemeine Blöcke”) auswählen.</li>
+  <li>die gewünschten Bilder per drag&amp;drop in den vorgesehenen Bereich ziehen (bzw auf “Hochladen” und die gewüschten Bilder auswählen).</li>
+  <li>Die Reihenfolge der Bilder kann unter “Galerie bearbeiten” (Bleistift-Symbol überhalb der Galerie) per Drag&amp;Drop geändert werden.</li>
+  <li>Unten bei “Überordner” ggf. die übergeordnete Galerie wählen (zb. “2019”)</li>
+  <li>Einen Beschreibungstext kann man auf der rechten Seite unter “Dokument” in den “Textauszug” schreiben.</li>
+  <li>Auf “Veröffentlichen” klicken (2x)</li>
+</ul>
+
+<p>Einen Überordner legt man ebenfalls an, indem man unter Bildgalerien auf “erstellen” klickt. Ein Überordner benötigt lediglich einen Titel. (Kann prinzipiell aber auch Bilder enthalten).</p>
+
+<p>Generell sind Galerien beliebig “tief” ineinander verschachtelbar. Zu Beachten gilt nur dass nicht versehentlich zB. 2 Galerien gegenseitig als “Überordner” von einander ausgewählt werden, da diese sonst gar nicht aufscheinen.</p>
+
+<p>Die Reihenfolge der Galerien ergibt sich aus der Reihenfolge der “Überordner” in der Hauptansicht (“Alle Bildgalerien”)</p>
+
+<h2>Veranstaltungen</h2>
+
+<p>Veranstaltung erstellen:</p>
+
+<ul>
+  <li>unter “Veranstaltung” auf “Erstellen” klicken</li>
+  <li>Als oberstes den Titel der Veranstaltung</li>
+  <li>darunter den Beschreibungstext eingeben</li>
+  <li>Unten “Datum &amp; Uhrzeit” der Veranstaltung wählen.</li>
+  <li>Rechts unter “Dokument” lässt sich ein “Beitragsbild” wählen.</li>
+  <li>Auf “Veröffentlichen” klicken (2x)</li>
+</ul>
+
+<p>Die Reihenfolge der Veranstaltungen lässt sich per drag&amp;drop unter “Alle Veranstaltungen” verändern.</p>
+
+<h2>Presse</h2>
+
+<p>Das erstellen der Pressegalerien gestaltet sich ein wenig anders als bei den Bildgalerien, da normale Bildgalerien keine PDFs enthalten können.</p>
+
+<p>Pressegalerie erstellen:</p>
+
+<ul>
+  <li>unter “Presse” auf “Erstellen” klicken</li>
+  <li>Als oberstes den Titel eingeben</li>
+  <li>Unten unter “Medien Galerie” auf “Zur Galerie hinzufügen” klicken. Dann unter “Dateien hochladen” die Bilder und/oder PDFs hochladen. Anschließend auf “Auswählen” klicken.</li>
+  <li>Die Reihenfolge der Bilder/PDFs kann per Drag&amp;Drop nach Belieben verändert werden.</li>
+  <li>Ggf. unter “Überordner” eine übergeordnete Galerie wählen.</li>
+  <li>Auf “Veröffentlichen” klicken (2x)</li>
+  <li>Die Reihenfolge der Pressegalerien ergibt sich aus der Reihenfolge in der Hauptansicht</li>
+</ul>
+:ET

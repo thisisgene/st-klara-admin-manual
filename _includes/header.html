@@ -4,7 +4,13 @@
 
     <a class="site-title" href="{{ "/" | relative_url }}">
       <img src="assets/logo.png" alt="Logo">
-      {{ site.title | escape }}</a>
+      <div class="meta-info">
+      <h1>St. Klara Nürnberg - Admin Bedienungsanleitung</h1>
+      <small>v 1.01<span class="update-time">(Letztes Update: {% last_modified_at %})</span></small>
+      
+      </div>
+    </a>
+      
 
     <!-- <nav class="site-nav">
       {% for link in site.data.navigation.main %}

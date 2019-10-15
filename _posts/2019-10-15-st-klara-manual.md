@@ -11,7 +11,7 @@ Im Folgenden sind die wichtigsten Punkte des Admin-Bereichs zusammengefasst:
 Unter “Seiten” kann man den **Inhalt der Seiten** der Menü-Navigation, von “Newsletter” und “Kontakt_mini” (sticky Kontakt-Feld rechts), sowie das **Titelbild** ändern.  
 Außerdem kann man unter **Veranstaltungsprogramm** das aktuelle Veranstaltungsprogramm-PDF hochladen.
 
-<span style="color:darkred">**Wichtig**</span> ist dabei, die Titel/Namen der Seiten nicht zu verändern, da die Menüstruktur und sonstige Funktionalität davon abhängig ist.
+<span style="color:darkred">**Wichtig:**</span> Die Titel/Namen der Seiten dürfen **nicht verändert** werden, da die Menüstruktur und sonstige Funktionalität davon abhängig ist.
 
 ## Podcasts
 
