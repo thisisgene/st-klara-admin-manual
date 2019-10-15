@@ -64,6 +64,3 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-
-gems:
-  - jekyll-last-modified-at
